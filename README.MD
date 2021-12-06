@@ -1,4 +1,4 @@
-#----- FILES CREATOR-----
+----- FILES CREATOR-----
 
 Esta é uma aplicação Java. Sua funcionalidade é ler e criar arquivos 
 e diretorios.
